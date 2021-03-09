@@ -4,8 +4,8 @@
 
 ## Table of Content
 
-*[Demo](#demo)
-*[Deployment](#deployment)
+* [Demo](#demo)
+* [Deployment](#deployment)
 
 ## Demo
 
